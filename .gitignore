@@ -16,3 +16,5 @@
 
 # kafka data
 data
+volumes
+zookeeper
